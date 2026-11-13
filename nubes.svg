@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 50" width="1000" height="50">
+  <defs>
+    <g id="n">
+      <ellipse cx="0" cy="0" rx="18" ry="10"/>
+      <circle cx="-9" cy="-5" r="9"/>
+      <circle cx="4" cy="-10" r="11"/>
+      <circle cx="14" cy="-3" r="8"/>
+    </g>
+  </defs>
+  <line x1="40" y1="30" x2="430" y2="30" stroke="#CFE6F7" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 10"/>
+  <line x1="570" y1="30" x2="960" y2="30" stroke="#CFE6F7" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 10"/>
+  <g fill="#BFE1F7">
+    <use href="#n" x="460" y="34"/>
+    <use href="#n" x="540" y="34"/>
+  </g>
+  <use href="#n" x="500" y="30" fill="#8EC5EA"/>
+</svg>
