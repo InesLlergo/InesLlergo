@@ -1,32 +1,32 @@
 <!--
   Paleta pastel: azul 8EC5EA · azul nube DCEFFF · texto 5B8DB8
-  Imágenes: súbelas a la carpeta "img" con estos nombres: imagen1, imagen2, imagen3, saludo y final.
+  Imágenes: súbelas junto al README con estos nombres: imagen1, imagen2, imagen3, saludo y final.
   Si no usas alguna, borra su línea <img ...>
 -->
 
 <div align="center">
 
-<img src="img/banner.svg" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 <a href="https://inesllergo.github.io/MyPortfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1300&color=7FB5DE&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+In%C3%A9s;Me+encanta+la+programaci%C3%B3n+competitiva;IA+%2B+IoT+para+resolver+problemas+reales;Nataci%C3%B3n+%C2%B7+osu!+%C2%B7+hornear+postres" alt="typing"/>
 </a>
 
 <p>
-  <img src="img/imagen1.gif" height="110"/>
-  <img src="img/imagen2.png" height="110"/>
-  <img src="img/imagen3.gif" height="110"/>
+  <img src="imagen1.gif" height="110"/>
+  <img src="imagen2.png" height="110"/>
+  <img src="imagen3.gif" height="110"/>
 </p>
 
 <a href="https://inesllergo.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portafolio-DCEFFF?style=for-the-badge&logo=githubpages&logoColor=5B8DB8"/></a>
 <a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-DCEFFF?style=for-the-badge&logo=linkedin&logoColor=5B8DB8"/></a>
 <a href="mailto:TU-CORREO"><img src="https://img.shields.io/badge/Email-DCEFFF?style=for-the-badge&logo=gmail&logoColor=5B8DB8"/></a>
 
-<img src="img/nubes.svg" width="100%"/>
+<img src="nubes.svg" width="100%"/>
 
 </div>
 
-<img align="right" src="img/saludo.gif" width="170"/>
+<img align="right" src="saludo.gif" width="170"/>
 
 ### Sobre mí
 
@@ -40,7 +40,7 @@ Me encanta la programación competitiva, la IA aplicada y los proyectos IoT que 
 
 <br clear="right"/>
 
-<div align="center"><img src="img/nubes.svg" width="100%"/></div>
+<div align="center"><img src="nubes.svg" width="100%"/></div>
 
 ### Stack
 
@@ -69,7 +69,7 @@ Me encanta la programación competitiva, la IA aplicada y los proyectos IoT que 
   <img src="https://img.shields.io/badge/Astro-DCEFFF?style=flat-square&logo=astro&logoColor=5B8DB8"/>
 </p>
 
-<div align="center"><img src="img/nubes.svg" width="100%"/></div>
+<div align="center"><img src="nubes.svg" width="100%"/></div>
 
 ### Proyectos
 
@@ -82,7 +82,7 @@ Me encanta la programación competitiva, la IA aplicada y los proyectos IoT que 
 | **Robot seguidor de línea** | Robótica + control |
 | [**Team-projects**](https://github.com/InesLlergo/Team-projects) | Sistemas con estructuras de datos en C++ |
 
-<div align="center"><img src="img/nubes.svg" width="100%"/></div>
+<div align="center"><img src="nubes.svg" width="100%"/></div>
 
 ### Inventario de gustos
 
@@ -100,9 +100,9 @@ Me encanta la programación competitiva, la IA aplicada y los proyectos IoT que 
 
 <div align="center">
 
-<img src="img/nubes.svg" width="100%"/>
+<img src="nubes.svg" width="100%"/>
 
-<img src="img/final.gif" height="110"/>
+<img src="final.gif" height="110"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=InesLlergo&show_icons=true&hide_border=true&border_radius=16&bg_color=EEF7FE&title_color=5B8DB8&icon_color=8EC5EA&text_color=5B8DB8" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InesLlergo&layout=compact&hide_border=true&border_radius=16&bg_color=EEF7FE&title_color=5B8DB8&text_color=5B8DB8" height="165"/>
